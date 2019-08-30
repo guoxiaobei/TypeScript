@@ -1,4 +1,3 @@
-"use strict";
 var myhusband = {
     sex: 'nan', interest: '看书'
 };

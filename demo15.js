@@ -1,4 +1,3 @@
-"use strict";
 var mySearch;
 mySearch = function (source, subString) {
     var flag = source.search(subString);

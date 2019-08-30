@@ -1,4 +1,3 @@
-"use strict";
 // enum ren{
 //     nan,nv,yao
 // }

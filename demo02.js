@@ -1,4 +1,3 @@
-"use strict";
 // function searchXiaoJieJie(age:number):string{
 //     return '找到了'+age+'岁的小姐姐'
 // }
